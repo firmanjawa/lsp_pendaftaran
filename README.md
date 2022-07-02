@@ -1,3 +1,4 @@
+#Penjelasan Singkat
 Web pendaftaran ini dibuat untuk mendaftar institusi pendidikan secara online
 Untuk mendaftar institusi pendidikan SD, SMP dan SMA
 Dengan mendaftarkan 14 data, yaitu :
@@ -15,20 +16,25 @@ Dengan mendaftarkan 14 data, yaitu :
 12. Orang Tua/Wali
 13. No. Telepon
 
+#Fungsionalitas
+- Peserta
 Peserta dapat mendaftar dengan memasukan nama, username dan password
-Lalu peserta dapat mengisi data pendaftaran, melihat detail data dan melakukan pengupdatean jika ada yang sala
+Lalu peserta dapat mengisi data pendaftaran, melihat detail data dan melakukan pengupdatean jika ada yang salah
 
+-Admin
 Admin dapat mendaftarkan peserta, mengupdate data dan mendelete datanya
 Admin dapat melihat seluruh data peserta yang sudah mengisi data
 
+#Tampilan WEB
 Tampilan Peserta
+- Tampilan Register
 - Tampilan Log-In
 - Tampilan Beranda
 - Tampilan Isi Data
 - Tampilan Detail Data
 - Update Data
 
-Tampilan Beranda- Tampilan Log-In
+Tampilan Admin
 - Tampilan Beranda
 - Tampilan Isi Data
 - Tampilan Data Peserta
