@@ -44,6 +44,7 @@
 
 		}
 
+		// proses insert jika peserta yang isi data
 		if($_SESSION['user'] == 1){
 			$insert = mysqli_query($conn, "INSERT INTO daftar VALUES (
 				DEFAULT,
@@ -71,12 +72,6 @@
 			}
 		}
 		
-		
-
-		//jika berhasil insert
-		
-
-
 	}
 ?>
 <!DOCTYPE html>
