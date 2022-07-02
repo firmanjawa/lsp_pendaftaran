@@ -36,9 +36,10 @@ Tampilan Peserta
 - Update Data
 
 Tampilan Admin
+- Tampilan Log-In
 - Tampilan Beranda
 - Tampilan Isi Data
-- Tampilan Data Peserta
+- Tampilan List Data Peserta
 - Tampilan Detail Data
 - Update Data
 
