@@ -1,7 +1,5 @@
 # Penjelasan Singkat
-Web pendaftaran ini dibuat untuk mendaftar institusi pendidikan secara online
-Untuk mendaftar institusi pendidikan SD, SMP dan SMA
-Dengan mendaftarkan 14 data, yaitu :
+Web pendaftaran ini dibuat untuk mendaftar institusi pendidikan pendidikan SD, SMP dan SMA secara online dengan mendaftarkan 14 data, yaitu :
 1. NO. Kartu Keluarga
 2. NIK
 3. Domisili
