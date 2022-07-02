@@ -9,21 +9,22 @@ Dengan mendaftarkan 14 data, yaitu :
 5. Jenis Pendidikan Institusi
 6. Institusi Tujuan
 7. Nama Pendaftar
-8. KEagamaan
+8. Keagamaan
 9. Jenis Kelamin
-10. Tempat dan Tanggal LAhir
-11. Alamat
-12. Orang Tua/Wali
-13. No. Telepon
+10. Tempat Lahir
+11. Tanggal LAhir
+12. Alamat
+13. Orang Tua/Wali
+14. No. Telepon
 
 # Fungsionalitas
-- Peserta
-Peserta dapat mendaftar dengan memasukan nama, username dan password
-Lalu peserta dapat mengisi data pendaftaran, melihat detail data dan melakukan pengupdatean jika ada yang salah
+Peserta
+- Peserta dapat mendaftar dengan memasukan nama, username dan password
+- Lalu peserta dapat mengisi data pendaftaran, melihat detail data dan melakukan pengupdatean jika ada yang salah
 
--Admin
-Admin dapat mendaftarkan peserta, mengupdate data dan mendelete datanya
-Admin dapat melihat seluruh data peserta yang sudah mengisi data
+Admin
+- Admin dapat mendaftarkan peserta, mengupdate data dan mendelete datanya
+- Admin dapat melihat seluruh data peserta yang sudah mengisi data
 
 # Tampilan WEB
 Tampilan Peserta
